@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Brody Merritt
 
-<!--
-**merrittbrody06/merrittbrody06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Full Stack Developer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+I'm a passionate Software Engineer and Full Stack Developer with experience in a variety of programming languages and frameworks. I thrive on building robust applications, learning new technologies, and making coding **fun**!
+
+---
+
+## 🛠️ Languages & Technologies
+
+- **Java** & **JavaScript**
+- **C++**
+- **Python**
+- **HTML & CSS**
+- **C#**
+- **Lua**
+
+---
+
+## 🎯 What I Do
+
+- Develop full stack applications with modern technologies
+- Solve complex problems with clean, efficient code
+- Experiment with fun side projects and creative coding challenges
+- Contribute to open source and the developer community
+
+---
+
+## 🎲 Fun Projects & Coding Play
+
+I believe coding should be fun! I enjoy:
+
+- Building games and interactive applications
+- Automating tasks with scripts
+- Participating in hackathons and coding competitions
+- Sharing cool code snippets and experiments
+
+---
+
+## 📫 Let's Connect
+
+- [GitHub](https://github.com/merrittbrody06)
