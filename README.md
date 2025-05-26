@@ -15,9 +15,12 @@ I'm a passionate Software Engineer and Full Stack Developer with experience in a
 - **Java** & **JavaScript**
 - **C++**
 - **Python**
-- **HTML & CSS**
+- **HTML** & **CSS**
 - **C#**
 - **Lua**
+- **TypeScript**
+- **Angular**
+- 
 
 ---
 
