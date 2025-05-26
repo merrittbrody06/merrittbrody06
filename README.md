@@ -20,7 +20,6 @@ I'm a passionate Software Engineer and Full Stack Developer with experience in a
 - **Lua**
 - **TypeScript**
 - **Angular**
-- 
 
 ---
 
