@@ -1,29 +1,30 @@
-# 👋 Hi, I'm Brody Merritt
+# Hi, I'm Brody Merritt
 
 **Software Engineer | Full Stack Developer**
 
 ---
 
-## 💻 About Me
+## About Me
 
 I'm a passionate Software Engineer and Full Stack Developer with experience in a variety of programming languages and frameworks. I thrive on building robust applications, learning new technologies, and making coding **fun**!
 
 ---
 
-## 🛠️ Languages & Technologies
+## Languages & Frameworks
 
-- **Java** & **JavaScript**
 - **C++**
-- **Python**
-- **HTML** & **CSS**
 - **C#**
-- **Lua**
-- **TypeScript**
+- **TypeScript** (**.ts** & **.tsx**)
+- **Java** & **JavaScript** (**.js** & **.jsx**)
+- **HTML5** & **CSS**
+- **Python**
+- **Next.js**
+- **React**
 - **Angular**
 
 ---
 
-## 🎯 What I Do
+## What I Do
 
 - Develop full stack applications with modern technologies
 - Solve complex problems with clean, efficient code
@@ -32,7 +33,7 @@ I'm a passionate Software Engineer and Full Stack Developer with experience in a
 
 ---
 
-## 🎲 Fun Projects & Coding Play
+## Fun Projects & Coding Play
 
 I believe coding should be fun! I enjoy:
 
@@ -43,6 +44,6 @@ I believe coding should be fun! I enjoy:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - [GitHub](https://github.com/merrittbrody06)
