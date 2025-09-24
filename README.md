@@ -60,3 +60,4 @@ I believe coding should be fun! I enjoy:
 
 - [GitHub](https://github.com/merrittbrody06)
 - [LinkedIn](https://linkedin.com/in/brodymerritt)
+- [LeetCode](https://leetcode.com/u/merrittb06/)
