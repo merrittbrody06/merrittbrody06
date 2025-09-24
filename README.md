@@ -1,26 +1,38 @@
 # Hi, I'm Brody Merritt
 
-**Software Engineer | Full Stack Developer**
+**Senior Software Engineer | Full Stack Developer**
 
 ---
 
 ## About Me
 
-I'm a passionate Software Engineer and Full Stack Developer with experience in a variety of programming languages and frameworks. I thrive on building robust applications, learning new technologies, and making coding **fun**!
+I'm a passionate Senior Software Engineer and Full Stack Developer with experience in a variety of programming languages and frameworks. I thrive on building robust applications, learning new technologies, and making coding ***fun***!
 
 ---
 
-## Languages & Frameworks
+## Skills & Experience
 
+- Languages:
 - **C++**
 - **C#**
 - **TypeScript** (**.ts** & **.tsx**)
 - **Java** & **JavaScript** (**.js** & **.jsx**)
 - **HTML5** & **CSS**
 - **Python**
+- **Lua**
+
+- Frameworks & Technologies:
+- **.NET**
+- **ASP.NET**
 - **Next.js**
 - **React**
 - **Angular**
+
+- Development Practises
+- **Responsive Design**
+- **Modern Industry-Standard Principles**
+- **Desktop-First Design**
+- **Mobile-First Design**
 
 ---
 
@@ -33,7 +45,7 @@ I'm a passionate Software Engineer and Full Stack Developer with experience in a
 
 ---
 
-## Fun Projects & Coding Play
+## Fun Projects & Code
 
 I believe coding should be fun! I enjoy:
 
@@ -47,3 +59,4 @@ I believe coding should be fun! I enjoy:
 ## Let's Connect
 
 - [GitHub](https://github.com/merrittbrody06)
+- [LinkedIn](https://linkedin.com/in/brodymerritt)
