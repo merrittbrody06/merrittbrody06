@@ -12,7 +12,7 @@ I'm a passionate Senior Software Engineer and Full Stack Developer with experien
 
 ## Skills & Experience
 
-- Languages:
+### Languages
 - **C++**
 - **C#**
 - **TypeScript** (**.ts** & **.tsx**)
@@ -21,14 +21,14 @@ I'm a passionate Senior Software Engineer and Full Stack Developer with experien
 - **Python**
 - **Lua**
 
-- Frameworks & Technologies:
+### Frameworks & Technologies
 - **.NET**
 - **ASP.NET**
 - **Next.js**
 - **React**
 - **Angular**
 
-- Development Practises
+### Development Practises
 - **Responsive Design**
 - **Modern Industry-Standard Principles**
 - **Desktop-First Design**
